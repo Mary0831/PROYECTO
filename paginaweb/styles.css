@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #388E3C; /* Verde oscuro */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.slogan {
+    font-style: italic;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #9df70c; /* Verde medio */
+}
+
+h2 {
+    color: #2E7D32; /* Verde medio */
+}
+
+h3 {
+    color: #66BB6A; /* Verde claro */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #388E3C; /* Verde oscuro */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.organigrama {
+    width: 100%;
+    max-width: 600px;
+}
+
+.contact-details {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #66BB6A;
+    border-radius: 5px;
+    background-color: #e8f5e9; /* Verde muy claro */
+}
+
+.toggle-button {
+    background-color: #66BB6A; /* Verde claro */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#ayuda {
+    background-color: #e8f5e9; /* Verde muy claro */
+    padding: 10px;
+    border: 1px solid #66BB6A;
+    border-radius: 5px;
+}
